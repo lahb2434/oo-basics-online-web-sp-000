@@ -9,3 +9,4 @@ class Shoe
     @title = title
     @page_count = 0
   end
+end
