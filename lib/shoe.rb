@@ -1,7 +1,7 @@
 
 class Shoe 
   
-  attr_accessor :author, :page_count, :genre
+  attr_accessor :color, :size, :material
   attr_reader :title
   
   
